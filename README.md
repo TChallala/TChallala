@@ -23,13 +23,4 @@
   </a>
 </p>
 
----
-
-<h3 align="left" style="color:#6e5494;">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="Theo's GitHub stats" />
-</p>
-
----
-
 <h3 align="center" style="color:#333;">🔥 "Code. Manage. Deliver. Repeat." 🔥</h3>

@@ -13,6 +13,7 @@
 <!--<h3 align="left" style="color:#c9510c;">📬 Connect with me:</h3>-->
 <!--<p align="left">-->
 ![Visitor Count](https://profile-counter.glitch.me/TChallala/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 <!-- Add your social links here -->
 </p>
 

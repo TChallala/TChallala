@@ -10,8 +10,9 @@
 
 ---
 
-<h3 align="left" style="color:#c9510c;">📬 Connect with me:</h3>
-<p align="left">
+<!--<h3 align="left" style="color:#c9510c;">📬 Connect with me:</h3>-->
+<!--<p align="left">-->
+![Visitor Count](https://profile-counter.glitch.me/TChallala/count.svg)
 <!-- Add your social links here -->
 </p>
 

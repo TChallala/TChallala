@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#4078c0;">Hi 👋, I'm Theo/Tiyo/Teo</h1>
-<h3 align="center" style="color:#6cc644;">Aspiring Project Manager | System Developer</h3>
+<h3 align="center" style="color:#6cc644;">Project Manager | System Developer</h3>
 
 ---
 
